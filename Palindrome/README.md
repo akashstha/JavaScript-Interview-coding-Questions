@@ -1,0 +1,1 @@
+* Check for PalindromeInput: "racecar" → Output: true
